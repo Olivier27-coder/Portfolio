@@ -58,8 +58,8 @@ const projectList = [
         ],
         images: [
             { src: "/assets/smart-caisse.png", alt: "Smart-Caisses — Dashboard" },
-            { src: "/assets/smart-caisse-mobile.png", alt: "Smart-Caisses — Mobile" },
-            { src: "/assets/smart-caisse-pos.png", alt: "Smart-Caisses — POS" },
+            { src: "/assets/smart-caisse-mobile.png", alt: "Smart-Caisses — Connexion" },
+            { src: "/assets/smart-caisse-pos.png", alt: "Smart-Caisses — À propos" },
         ],
         url: "https://smart-caisses.com",
         github: "https://github.com/Olivier27-coder/Smart-Caissesn",
@@ -109,7 +109,7 @@ const projectList = [
         ],
         images: [
             { src: "/assets/payfast.png", alt: "PayFast — Accueil" },
-            { src: "/assets/payfast-dashboard.png", alt: "PayFast — Dashboard" },
+            { src: "/assets/payfast-dashboard.png", alt: "PayFast — Carte Visa" },
         ],
         url: "https://payfast.com",
         github: null,
@@ -159,8 +159,8 @@ const projectList = [
         ],
         images: [
             { src: "/assets/cyberweb-academy.png", alt: "CyberWeb — Accueil" },
-            { src: "/assets/cyberweb-courses.png", alt: "CyberWeb — Cours" },
-            { src: "/assets/cyberweb-mobile.png", alt: "CyberWeb — Mobile" },
+            { src: "/assets/cyberweb-courses.png", alt: "CyberWeb — Communauté" },
+            { src: "/assets/cyberweb-mobile.png", alt: "CyberWeb — Mission" },
         ],
         url: "https://cyberwebacad.com",
         github: null,
